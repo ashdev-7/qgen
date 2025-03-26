@@ -36,5 +36,4 @@ xdg-open index.html
 - **Easy to Expand**: Can be enhanced with JavaScript or frameworks.
 
 ---
-🚀 **Feel free to modify and experiment with the code!** 😊
 
